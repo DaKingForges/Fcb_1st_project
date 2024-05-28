@@ -44,6 +44,7 @@ FROM
     orders
 GROUP BY 
     customer_id;
+```
   
 ## Results 
 Key findings from the analysis will be summarized and presented in the form of visualizations, tables, and descriptive statistics. Insights gained from the analysis will be used to make data-driven recommendations for marketing strategies, product recommendations, and customer segmentation.
