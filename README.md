@@ -23,4 +23,4 @@ Key findings from the analysis will be summarized and presented in the form of v
 ## Contributing
 Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on GitHub. 
 ## License 
-This project is licensed under the [MIT License]. You are free to modify and distribute the code for both commercial and non-commercial purposes.
+This project is licensed under the [MIT License](https://opensource.org/license/mit). You are free to modify and distribute the code for both commercial and non-commercial purposes.
