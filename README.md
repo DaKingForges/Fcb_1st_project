@@ -45,7 +45,9 @@ GROUP BY
 ```
   
 ## Results 
-Key findings from the analysis will be summarized and presented in the form of visualizations, tables, and descriptive statistics. Insights gained from the analysis will be used to make data-driven recommendations for marketing strategies, product recommendations, and customer segmentation.
+Key findings from the analysis will be summarized and presented in the form of visualizations, tables, and descriptive statistics. Insights gained from the analysis will be used to make data-driven recommendations for marketing strategies, product recommendations, and customer segmentation. 
+
+![](download.jpg)
 
 ## Contributing
 Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on GitHub. 
