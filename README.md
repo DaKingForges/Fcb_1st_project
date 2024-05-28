@@ -6,6 +6,7 @@ This project aims to analyze customer purchasing behavior for an e-commerce comp
 - Introduction
 - Tools used
 - Data
+- Table
 - Analysis
 - SQL Query
 - Results
@@ -24,6 +25,18 @@ The goal of this project is to understand customer preferences and patterns in p
 
 ## Data 
 The dataset contains information on customer transactions, including purchase history, product details, and demographic information. It is stored in a CSV format and has been preprocessed to remove any missing values and outliers. 
+
+## Table
+Here's a sample table summarizing the key metrics from the analysis:
+
+| customer_id  |  order_total |
+|----------|---------|
+| 1001  |  100 |
+| 1002  |  450 |
+| 1003  |  7180 |
+| 1004  |  500 |
+| ....  |  .... |
+
 
 ## Analysis 
 The analysis will include the following steps: 
