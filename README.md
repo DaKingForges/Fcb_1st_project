@@ -9,7 +9,9 @@ This project aims to analyze customer purchasing behavior for an e-commerce comp
 - License
 - Contact
 ## Introduction 
-The goal of this project is to understand customer preferences and patterns in purchasing products from our e-commerce platform. The analysis will involve exploring the dataset, identifying trends, and making recommendations for improving customer experience and increasing sales.DataThe dataset contains information on customer transactions, including purchase history, product details, and demographic information. It is stored in a CSV format and has been preprocessed to remove any missing values and outliers. 
+The goal of this project is to understand customer preferences and patterns in purchasing products from our e-commerce platform. The analysis will involve exploring the dataset, identifying trends, and making recommendations for improving customer experience and increasing sales. 
+## Data 
+The dataset contains information on customer transactions, including purchase history, product details, and demographic information. It is stored in a CSV format and has been preprocessed to remove any missing values and outliers. 
 ## Analysis 
 The analysis will include the following steps: 
 - Exploratory data analysis (EDA) to understand the distribution of key variables and identify any correlations.
