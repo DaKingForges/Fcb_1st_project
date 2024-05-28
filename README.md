@@ -18,18 +18,16 @@ The goal of this project is to understand customer preferences and patterns in p
 ## Tools Used
 - Python: Data manipulation and analysis
 - Pandas: Data processing and analysis
-- Scikit-learn: Machine learning algorithms
 - SQL: Data querying and aggregation
 - Matplotlib: Data visualization
-- Jupyter Notebook: Interactive analysis and documentation
+
 
 ## Data 
 The dataset contains information on customer transactions, including purchase history, product details, and demographic information. It is stored in a CSV format and has been preprocessed to remove any missing values and outliers. 
 
 ## Analysis 
 The analysis will include the following steps: 
-- Exploratory data analysis (EDA) to understand the distribution of key variables and identify any correlations.
-- Customer segmentation based on purchasing behavior using clustering algorithms. 
+- Exploratory data analysis (EDA) to understand the distribution of key variables and identify any correlations. 
 - Association rule mining to discover patterns in product purchases.
 - Predictive modeling to forecast future sales and identify potential upselling opportunities.
 
